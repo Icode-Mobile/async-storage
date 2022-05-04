@@ -1,5 +1,5 @@
 # Async Storage Login
-LIb poderosa que é React Navigation
+Uma aplicação simples de Login e Registro usando Async Storage
 
 Para utilizar o repositório basta fazer o download do projeto ou clonar e dentro do projeto, abrir o terminal digitando o seguinte comando:
 ```bash
